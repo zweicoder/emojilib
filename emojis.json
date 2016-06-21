@@ -110,12 +110,12 @@
     "category": "people"
   },
   "stuck_out_tongue_closed_eyes": {
-    "keywords": ["face", "prank", "playful", "mischievous", "smile"],
+    "keywords": ["face", "prank", "playful", "mischievous", "smile", "xp","XP"],
     "char": "😝",
     "category": "people"
   },
   "stuck_out_tongue": {
-    "keywords": ["face", "prank", "childish", "playful", "mischievous", "smile"],
+    "keywords": ["face", "prank", "childish", "playful", "mischievous", "smile", ":P",":p"],
     "char": "😛",
     "category": "people"
   },
@@ -170,7 +170,7 @@
     "category": "people"
   },
   "thinking": {
-    "keywords": ["face", "hmmm"],
+    "keywords": ["face"],
     "char": "🤔",
     "category": "people"
   },
@@ -240,7 +240,7 @@
     "category": "people"
   },
   "triumph": {
-    "keywords": ["face", "gas", "phew", "proud", "pride"],
+    "keywords": ["face", "gas", "phew", "proud", "pride","hmph","hmpf"],
     "char": "😤",
     "category": "people"
   },
@@ -250,7 +250,7 @@
     "category": "people"
   },
   "scream": {
-    "keywords": ["face", "munch", "scared", "omg"],
+    "keywords": ["face", "munch", "scared", "omg","ahhh"],
     "char": "😱",
     "category": "people"
   },
@@ -1085,7 +1085,7 @@
     "category": "animals_and_nature"
   },
   "frog": {
-    "keywords": ["animal", "nature", "croak", "toad"],
+    "keywords": ["animal", "nature", "croak"],
     "char": "🐸",
     "category": "animals_and_nature"
   },
@@ -1405,7 +1405,7 @@
     "category": "animals_and_nature"
   },
   "palm_tree": {
-    "keywords": ["plant", "vegetable", "nature", "summer", "beach", "mojito"],
+    "keywords": ["plant", "vegetable", "nature", "summer", "beach"],
     "char": "🌴",
     "category": "animals_and_nature"
   },
@@ -1770,7 +1770,7 @@
     "category": "food_and_drink"
   },
   "tangerine": {
-    "keywords": ["food", "fruit", "nature", "orange"],
+    "keywords": ["food", "fruit", "nature"],
     "char": "🍊",
     "category": "food_and_drink"
   },
@@ -1965,7 +1965,7 @@
     "category": "food_and_drink"
   },
   "dango": {
-    "keywords": ["food", "dessert", "sweet", "japanese"],
+    "keywords": ["food", "barbecue", "meat"],
     "char": "🍡",
     "category": "food_and_drink"
   },
@@ -2045,12 +2045,12 @@
     "category": "food_and_drink"
   },
   "cocktail": {
-    "keywords": ["drink", "drunk", "alcohol", "beverage", "booze", "mojito"],
+    "keywords": ["drink", "drunk", "alcohol", "beverage", "booze"],
     "char": "🍸",
     "category": "food_and_drink"
   },
   "tropical_drink": {
-    "keywords": ["beverage", "cocktail", "summer", "beach", "alcohol", "booze", "mojito"],
+    "keywords": ["beverage", "cocktail", "summer", "beach", "alcohol", "booze"],
     "char": "🍹",
     "category": "food_and_drink"
   },
@@ -2765,12 +2765,12 @@
     "category": "travel_and_places"
   },
   "beach_with_umbrella": {
-    "keywords": ["weather", "summer", "sunny", "sand", "mojito"],
+    "keywords": ["weather", "summer", "sunny", "sand"],
     "char": "🏖",
     "category": "travel_and_places"
   },
   "desert_island": {
-    "keywords": ["photo", "tropical", "mojito"],
+    "keywords": ["photo", "tropical"],
     "char": "🏝",
     "category": "travel_and_places"
   },
@@ -3300,7 +3300,7 @@
     "category": "objects"
   },
   "coffin": {
-    "keywords": ["vampire", "dead", "die", "death", "rip", "graveyard", "cemetery"],
+    "keywords": ["vampire", "dead", "die", "death", "rip"],
     "char": "⚰",
     "category": "objects"
   },
@@ -4360,7 +4360,7 @@
     "category": "symbols"
   },
   "cyclone": {
-    "keywords": ["weather", "swirl", "blue", "cloud", "vortex", "spiral", "whirlpool", "spin"],
+    "keywords": ["weather", "swirl", "blue", "cloud"],
     "char": "🌀",
     "category": "symbols"
   },
